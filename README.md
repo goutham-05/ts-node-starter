@@ -1,10 +1,9 @@
-# node-typescript-boilerplate
+# ts-node-starter
 
 [![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-5-7]
 [![Node.js version][nodejs-badge]][nodejs]
 [![MIT][license-badge]][license]
-[![Build Status - GitHub Actions][gha-badge]][gha-ci]
 
 A modern, ready-to-use Node.js project template with TypeScript, ESM, linting, formatting, and fast testing out of the box. Ideal for quickly starting robust, maintainable Node.js applications.
 
