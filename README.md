@@ -105,7 +105,7 @@ npm run prettier
 ## Available Scripts
 
 You can use the following npm scripts to manage and develop your project:
-
+- `dev` — Start the project in development mode with automatic transpilation.
 - `clean` — Remove coverage data, cache, and transpiled files.
 - `prebuild` — Lint source files and tests before building.
 - `build` — Transpile TypeScript to ES6.
