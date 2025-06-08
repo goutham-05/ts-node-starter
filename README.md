@@ -26,7 +26,7 @@ This project is designed for the latest Active LTS release of [Node.js][nodejs].
 ## Project Structure
 
 ```
-project-root/
+ts-node-starter/
 ├── src/
 │   ├── index.ts                 # Entry point – starts server
 │   ├── app.ts                   # Express app setup
